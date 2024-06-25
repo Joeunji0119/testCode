@@ -1,6 +1,7 @@
 import * as React from 'react';
+import App from './pages/todoList/Index';
 const Router = () => {
-  return <div>R1ㄴ</div>;
+  return <App />;
 };
 
 export default Router;
